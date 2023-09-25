@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/head.h
+
+/home/zyj/cmakeLearn/v5/src/add.c
+stdio.h
+-
+head.h
+/home/zyj/cmakeLearn/v5/src/head.h
+
+/home/zyj/cmakeLearn/v5/src/div.c
+stdio.h
+-
+head.h
+/home/zyj/cmakeLearn/v5/src/head.h
+
+/home/zyj/cmakeLearn/v5/src/main.c
+stdio.h
+-
+head.h
+/home/zyj/cmakeLearn/v5/src/head.h
+
+/home/zyj/cmakeLearn/v5/src/mult.c
+stdio.h
+-
+head.h
+/home/zyj/cmakeLearn/v5/src/head.h
+
+/home/zyj/cmakeLearn/v5/src/sub.c
+stdio.h
+-
+head.h
+/home/zyj/cmakeLearn/v5/src/head.h
+

@@ -1,0 +1,4 @@
+/home/zyj/cmakeLearn/v5/build/CMakeFiles/rebuild_cache.dir
+/home/zyj/cmakeLearn/v5/build/CMakeFiles/app.dir
+/home/zyj/cmakeLearn/v5/build/CMakeFiles/edit_cache.dir
+/home/zyj/cmakeLearn/v5/build/CMakeFiles/calc.dir
