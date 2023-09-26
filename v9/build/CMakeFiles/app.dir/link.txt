@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/app.dir/test.c.o  -o app 
